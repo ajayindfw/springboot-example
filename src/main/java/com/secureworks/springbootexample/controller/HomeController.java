@@ -1,4 +1,4 @@
-package com.secureworks.springbootexample.com.secureworks.springbootexample.controller;
+package com.secureworks.springbootexample.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
